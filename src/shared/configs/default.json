@@ -1,0 +1,17 @@
+{
+  "App": {
+    "logger": {
+      "enabled": true,
+      "level": "info",
+      "enabledLogReqs": false
+    },
+    "envs": {
+      "dev": {
+        "port": "3000"
+      },
+      "prod": {
+        "port": "3000"
+      }
+    }
+  }
+}
